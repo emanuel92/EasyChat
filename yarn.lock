@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@ionic/core@0.0.2-20":
+  version "0.0.2-20"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-0.0.2-20.tgz#a6568946e4386c5d9617c791a64d12b4074350fa"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -4141,8 +4145,8 @@ upper-case@^1.1.1:
   resolved "https://registry.yarnpkg.com/upper-case/-/upper-case-1.1.3.tgz#f6b4501c2ec4cdd26ba78be7222961de77621598"
 
 urijs@^1.16.1:
-  version "1.18.10"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.18.10.tgz#b94463eaba59a1a796036a467bb633c667f221ab"
+  version "1.19.11"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.11.tgz#204b0d6b605ae80bea54bea39280cdb7c9f923cc"
 
 url-loader@^0.5.8:
   version "0.5.8"
