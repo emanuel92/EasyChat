@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@ionic/core@0.0.2-20":
+  version "0.0.2-20"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-0.0.2-20.tgz#a6568946e4386c5d9617c791a64d12b4074350fa"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -1394,8 +1398,8 @@ debug@2.6.7:
     ms "2.0.0"
 
 debug@^2.1.1, debug@^2.2.0:
-  version "2.6.8"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.8.tgz#e731531ca2ede27d188222427da17821d68ff4fc"
+  version "2.6.9"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"
   dependencies:
     ms "2.0.0"
 
